@@ -19,6 +19,6 @@ You can find all the charts as well as the dashboard [here](https://www.canva.co
 ## Want to hire me ?
 I’m currently searching for a Data Analyst position, if you’re interested you can find my contacts here :
 
-LINKEDIN: linkedin.com/in/rym-bouchetara-916167135/
-TWITTER: twitter.com/BouchetaraRym
-EMAIL: Rym.bouchetara@gmail.com
+* LINKEDIN: linkedin.com/in/rym-bouchetara-916167135/
+* TWITTER: twitter.com/BouchetaraRym
+* EMAIL: Rym.bouchetara@gmail.com
